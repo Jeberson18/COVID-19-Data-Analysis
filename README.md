@@ -44,7 +44,7 @@ This project provides an in-depth analysis of the global COVID-19 pandemic using
 
 ## Dataset  
 
-The analysis is based on the `owid-covid-data.csv` dataset, which includes:  
+The analysis is based on the `owid-covid-data.csv` dataset. Due to size limitations, the dataset is not included in this repository. You can download the dataset directly from Kaggle: [COVID-19 Dataset on Kaggle](https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset), which includes:  
 - **Date:** The date of the record.  
 - **Location:** Country or region name.  
 - **Continent:** Continent of the country.  
