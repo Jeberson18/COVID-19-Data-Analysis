@@ -97,6 +97,31 @@ The project highlights the global impact of COVID-19, uncovers temporal patterns
 ## How to Run the Project  
 
 1. **Clone the Repository:**  
-   ```bash
+   ```
    git clone https://github.com/yourusername/covid-19-data-analysis.git
    cd covid-19-data-analysis
+   ```
+
+Install Required Libraries:
+
+```
+   pip install pandas numpy matplotlib seaborn scikit-learn
+```
+Prepare the Dataset:
+Ensure the owid-covid-data.csv file is available in the project directory.
+
+Run the Notebook:
+Open Covid-19.ipynb in Jupyter Notebook or any compatible environment and execute the cells sequentially.
+
+## Repository Structure
+```
+|-- Covid-19.ipynb                          # Jupyter Notebook with the analysis
+|-- owid-covid-data.csv                     # Dataset used for the project
+|-- COVID-19 Data Analysis Documentation.pdf  # Detailed project report
+|-- README.md                               # Project documentation
+```
+
+## Additional Documentation  
+The project report contains detailed insights into the methodology, data cleaning, analysis, and key results.  
+Download and view the report: [COVID-19 Data Analysis Documentation](./COVID-19%20Data%20Analysis%20Documentation.pdf).
+
