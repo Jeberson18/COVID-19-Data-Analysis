@@ -116,7 +116,6 @@ Open Covid-19.ipynb in Jupyter Notebook or any compatible environment and execut
 ## Repository Structure
 ```
 |-- Covid-19.ipynb                          # Jupyter Notebook with the analysis
-|-- owid-covid-data.csv                     # Dataset used for the project
 |-- COVID-19 Data Analysis Documentation.pdf  # Detailed project report
 |-- README.md                               # Project documentation
 ```
