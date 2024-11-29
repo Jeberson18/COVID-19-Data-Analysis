@@ -98,7 +98,7 @@ The project highlights the global impact of COVID-19, uncovers temporal patterns
 
 1. **Clone the Repository:**  
    ```
-   git clone https://github.com/yourusername/covid-19-data-analysis.git
+   git clone https://github.com/Jeberson18/covid-19-data-analysis.git
    cd covid-19-data-analysis
    ```
 
