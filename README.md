@@ -123,5 +123,5 @@ Open Covid-19.ipynb in Jupyter Notebook or any compatible environment and execut
 
 ## Additional Documentation  
 The project report contains detailed insights into the methodology, data cleaning, analysis, and key results.  
-Download and view the report: [COVID-19 Data Analysis Documentation](./COVID-19%20Data%20Analysis%20Documentation.pdf).
+Download and view the report: [COVID-19 Data Analysis Documentation](https://github.com/Jeberson18/COVID-19-Data-Analysis/blob/main/COVID%2019%20Data%20Analysis%20Documentation.pdf).
 
